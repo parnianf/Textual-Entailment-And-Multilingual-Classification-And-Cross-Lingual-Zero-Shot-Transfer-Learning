@@ -46,3 +46,5 @@ In this part, I train the model on English data and test it on Persian data.
 #### Dataset
 The dataset is in *Question2_Data* folder given. This dataset has three columns: **source** (English text), **targets** (translated Persian text) and **category** (including three tags: **Quran**, **Bible**, **Mizan** (collection of literary masterpieces translated into English)).
 
+## Report
+Report is available [here](https://github.com/parnianf/Textual-Entailment-And-Multilingual-Classification-And-Cross-Lingual-Zero-Shot-Transfer-Learning/blob/main/NLP_CA4_Report_English.pdf).
